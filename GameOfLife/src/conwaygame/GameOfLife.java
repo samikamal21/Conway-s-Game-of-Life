@@ -10,10 +10,6 @@ import java.util.ArrayList;
  * Alive cells with >=4 neighbors die of overpopulation.
  * Alive cells with 2-3 neighbors survive.
  * Dead cells with exactly 3 neighbors become alive by reproduction.
-
- * @author Seth Kelley 
- * @author Maxwell Goldberg
- */
 public class GameOfLife {
 
     // Instance variables
